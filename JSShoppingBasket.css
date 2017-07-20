@@ -1,0 +1,43 @@
+body{
+	padding-left:20px;
+	
+}
+
+h1{
+	color:rebeccapurple;
+	margin-left:300px;
+}
+
+
+#tablecontainer {
+		background:#efefef;
+		width:800px;
+		height:400px;
+		padding-left:5px;
+		padding-top:5px;
+	
+}
+
+th{
+	background:rebeccapurple;
+	color:white;
+}
+
+
+li{
+	list-style-type:none;
+	
+}
+
+ul{
+	position:absolute;
+	margin-left: 800px;
+	bottom:400px;
+}
+
+tr:hover{
+	
+	background:#cee1ff;
+	
+}
+	
